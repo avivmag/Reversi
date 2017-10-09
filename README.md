@@ -7,7 +7,7 @@ This game supports many features, including:
 - Save/Load game.
 - Generic game sizes (default is 8X8).
 
-This game has been done in pairs as part of an assignment in "Principles of Object Oriented Programming" course at Ben-Gurion University.
+This game has been done in pairs as part of an assignment in "Principles of Object Oriented Programming" course at Ben-Gurion University in 2015.
 
 ### Minimax
 
